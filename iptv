@@ -1,0 +1,33 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="'GMA" tvg-name="GMA" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="Local",GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="BeamTV.ph" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="Local",Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Philippines" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="Local",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kapamilya Channel" tvg-logo="https://i.imgur.com/5AuYVFN.jpg" group-title="Local",Kapamilya Channel
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://i.imgur.com/pfDPIbN.png" group-title="Local",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="Local",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="Local",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="Local",UNTV
+https://www.untvweb.com/live-stream/untvweb.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://i.imgur.com/kvtF359.png" group-title="Local",DepEd TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/DAwI07d.jpg" group-title="Local",Fox Sports 1
+https://indotv.tech/m3u8sd/usee-foxsport1-indonesia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/qqSGmS1.jpg" group-title="Local",Fox Sports 2
+https://indotv.tech/m3u8sd/usee-foxsport2-indonesia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="https://i.imgur.com/gc8svJ5.jpg" group-title="Local",Fox Sports 3
+https://indotv.tech/m3u8sd/usee-foxsport3-indonesia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/5xIP1jn.png" group-title="Local",KBS World
+https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA Pinoy TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/scale-to-width-down/2000?cb=20200901093722" group-title="Local",GMA Pinoy TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeepney TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/2000?cb=20160824071938" group-title="Local",Jeepney TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
